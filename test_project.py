@@ -47,7 +47,7 @@ locations = [
         "longitude": 76.2673
     },
     {
-        "name": "Ahmedabad",
+        "name": "Gujrat",
         "latitude": 23.0225,
         "longitude": 72.5714
     }
