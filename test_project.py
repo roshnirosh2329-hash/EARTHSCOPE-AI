@@ -10,7 +10,48 @@ locations = [
         "name": "Chennai",
         "latitude": 13.0827,
         "longitude": 80.2707
+    },
+    {
+        "name": "Mumbai",
+        "latitude": 19.0760,
+        "longitude": 72.8777
+    },
+    {
+        "name": "Delhi",
+        "latitude": 28.6139,
+        "longitude": 77.2090
+    },
+    {
+        "name": "Hyderabad",
+        "latitude": 17.3850,
+        "longitude": 78.4867
+    },
+    {
+        "name": "Kolkata",
+        "latitude": 22.5726,
+        "longitude": 88.3639
+    },
+    {
+        "name": "Pune",
+        "latitude": 18.5204,
+        "longitude": 73.8567
+    },
+    {
+        "name": "Jaipur",
+        "latitude": 26.9124,
+        "longitude": 75.7873
+    },
+    {
+        "name": "Kochi",
+        "latitude": 9.9312,
+        "longitude": 76.2673
+    },
+    {
+        "name": "Ahmedabad",
+        "latitude": 23.0225,
+        "longitude": 72.5714
     }
+
 ]
 
 print("\n===================================")
